@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly letter of advice to the souldiers from a quondam-member of the army.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85094</idno>
+            <idno type="STC">Wing F36</idno>
+            <idno type="STC">Thomason E993_13</idno>
+            <idno type="STC">ESTC R202067</idno>
+            <idno type="EEBO-CITATION">99862483</idno>
+            <idno type="PROQUEST">99862483</idno>
+            <idno type="VID">168663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168663)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly letter of advice to the souldiers from a quondam-member of the army.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.F.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 1st August. 1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168663:1" rendition="simple:additions"/>
+            <p>A Friendly LETTER OF ADVICE TO THE SOULDIERS, FROM A QUONDAM MEMBER OF THE ARMY.</p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168663:2"/>
+            <pb n="3" facs="tcp:168663:2"/>
+            <opener>
+               <salute>Fellow Souldiers!</salute>
+            </opener>
+            <p>WHen I conſider with my ſelf upon what grounds I with<g ref="char:EOLhyphen"/>drew from your ſociety, I cannot but bleſs Almighty God, for that his temporal Redemption; and pity that ſad and lamentable Condition whereinto you have been ſo ſubtilly In<g ref="char:EOLhyphen"/>ticed, and held on for ſo many years with a ſtrange Stupefa<g ref="char:EOLhyphen"/>ction. I confeſs, the Banner, under which we firſt fought, was moſt gloriously Gilt with the fair and ſpecious pretences of Re<g ref="char:EOLhyphen"/>ligion, the preſervation of the Laws, the liberty of the Subject, the priviledge of Parliament, and the ſafety of the KING: And indeed, who would not willingly offer himſelf a ſacrifice for ſo good a Cauſe? But alas! how ſoon was this mask of Hy<g ref="char:EOLhyphen"/>pocriſie laid aſide? how ſoon was the beauty of this <hi>Good old Cauſe</hi> made odious by a rebellious Leproſie? was there any one Motive, by which we were induced to fight made good? was Religion any real cauſe of our Diviſions? No; there was little appearance of the Truth thereof to any ſober diſcreet perſon, when, the Cannons of the Church (under the colour of zeal and ſanctity) were aboliſht, the Lyturgie abrogated, the material Fabrick (conſecrated to the uſe and ſervice of God) in ſome places demoliſhed; in others miſerably profaned by the introduction of <hi>bruit beasis,</hi> and the prodigious impiety of their <hi>Riders;</hi> the Metropolitan of the Church moſt barba<g ref="char:EOLhyphen"/>rouſly Beheaded, the ſacred Order of Epiſcopacy extirpated, and their Revenues together with that of Deans and Prebends ſold; and the reſt of the Clergy tyrannically ſtript of their livelyhood, contrary to Law; this was not enough they muſt be ſilenced too; and the Exerciſe and Adminiſtration of the Go<g ref="char:EOLhyphen"/>ſpel committed unto ſuch perſons as either were not qualified for that holy Calling with Learning and holy Orders, or elſe had profaned their Function by Perjury; or, Defaced their Natural parts by a <hi>ſnivling poſture and nonſenſical doctrine.</hi> This was (I ſay) viſible to all wiſe men at firſt; and (that men of the meaneſt capacity might not plead ignorance either for not repenting for their ſins paſt, or perſevering in them,) Be<g ref="char:EOLhyphen"/>hold, <hi>Liberty of conſcience</hi> was publiquely declared by our
+<pb n="4" facs="tcp:168663:3"/>
+               <hi>grand Maſters</hi> to be no ground of the War; Did not this make you ſtartle? were you no way ſenſible of the Cheat was put upon you? did you perceive no reluctancy for thoſe Murders, thoſe grand impieties into which you were inveigled? I muſt confeſs I did; and could not but ſo much the more deteſt and abominate the Mountebanks, by how much the more they had deluded both my Reaſon and Conſcience: Was it the preſer<g ref="char:EOLhyphen"/>vation of the Laws they endeavoured to maintain? Nothing leſs; what one Action of theirs is conſiſtant with the Laws of the Land? As for the Law of God, it appears there is nothing leſs in their hearts; ſince, they have abſolutely ſuppreſt the true Religion, and made a fair and ſpacious Avenue, for Turks, Jews, Hereticks, and Schiſmaticks: Was it the liberty of the Subject they inſiſted on? ask the City, ask the Country, make enquiry into the Univerſities then tell me, whether any one perſon will affirm himſelf to have that liberty, as, to diſpoſe of or keep his Eſtate according to his own pleaſure? Alas! how can it be when they have not their liberty to chooſe their Mem<g ref="char:EOLhyphen"/>bers? nay, they ſhall have no members at all to repreſent their perſons and promote their grievances: But, 'tis no wonder they should thus <hi>fool</hi> the naked multitude, when they have caſt the whole Army into a Lethargy, and deveſted the ſupreme Officers and General himſelf of their priviledges, the diſpoſiti<g ref="char:EOLhyphen"/>on of Offices and places in the Army: Was it the priviledge of Parliament they ſo much contended for? Yes; and for the ju<g ref="char:EOLhyphen"/>stification and improvement of this, they entrenched upon the KING'S prerogative, and the priviledge of the Houſe of LORDS, by the violation of all the Laws in the Realm; they uſurpt the Legiſlative power, and have exerciſed it to the deſtruction of the three States of this Nation grounded upon Law, and of every particular member thereof. Is this the Pri<g ref="char:EOLhyphen"/>viledge of Parliament? Was it the ſafety of the KING they ſo fiercely contended for? Truly, had they kil'd him in fight, the uncertain events of War might have rendred the fate acci<g ref="char:EOLhyphen"/>dental, as to a vulgar capacity; but for a company of Sub<g ref="char:EOLhyphen"/>jects to raiſe an Army againſt their <hi>Prince,</hi> under pretence of reprieving him from <hi>his evil and wicked Council,</hi> and having forced him into their own power to <hi>Arraign him at the Bar,</hi>
+               <pb n="5" facs="tcp:168663:3"/>under the colour of juſtice, to paſs Sentence upon him, and ac<g ref="char:EOLhyphen"/>cordingly to Execute him, ſo maliciouſly, ſo ſcandalouſly, at <hi>His own Gates,</hi> at Noon day, before the Eye of Heaven, and the Face of the whole world; This (I ſay) was a thing without <hi>Pre<g ref="char:EOLhyphen"/>ſident,</hi> an Act ſo manifeſtly odious and Monſtrous, that our Na<g ref="char:EOLhyphen"/>tion is deteſtable to all our Neighbours; nay, 'tis a thing ſo horrid and prodigious, that the poiſon is extended both to Turks and Infidels, in ſo diſmal and black a Character, that we are impriſoned in this Iſle, we have baniſhed our ſelves into our Country, as having no liberty and ſafety abroad: But, had they been ſuch friends to themſelves, as to ſpare his life, and make the ignorant part of men believe, their onely reſolution was, to call Him home from his wicked Council; it muſt be conceived their merit muſt have challenged the honour to be his Council, what Church? what Government? what Laws might we have expected? or rather what impiety? what tyranny muſt we have not expected then, when the KING ſhould have been made the ſtalking Horſe to bear the inviſible Inſtru<g ref="char:EOLhyphen"/>ment of the peoples deſtruction, when they dare Act ſuch things now upon their own account, their own intereſt? a poor handful of men, whoſe Fortunes were ſometimes as deſpicable as their actions are deteſtable: When they dare Act, who dare re<g ref="char:EOLhyphen"/>ſiſt their Votes, when they have ſo many, ſuch active, ſuch ſtout Souldiers to back them? Tis you then, 'tis you (Fellow Soul<g ref="char:EOLhyphen"/>diers) are guilty of all theſe Crimes, by complying with, and aſſerting their deſignes; 'Tis you have deſtroyed the Laws, Murdered the KING, and by heavy Impoſitions eaten the Bread out of your Countreymens mouths; and to what purpoſe? to ſatiate (if it were poſſible) the luſt, ambition and avarice, of a few inconſiderable perſons: They, have ſomething to ſay for their perſeverance; they have got Wealth, and ſome thing like Honour; but what benefit accrews to you? you are Night by Night upon the Guard; you are Night and Day conſtrained (like ſo many Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chpoles) ſilently to ſteal through the ſtreets, whereby to ſurpriſe an innocent perſon, and bring him to De<g ref="char:EOLhyphen"/>ſtruction; and all this while you are poor and <hi>Beggarly</hi> with<g ref="char:EOLhyphen"/>out pay, you labour for nought; and if you had your wages, 'twere no more then would keep you from ſtarving; yet this
+<pb n="6" facs="tcp:168663:4"/>ſmall pittance cannot be obtained; for want whereof, you run upon the ſcore to ſuch perſons, who are not able to for<g ref="char:EOLhyphen"/>bear; Hence it is, you are generally Deſpiſed, Contemned, curſed by poor Widows, Orphans, and all honeſt people, for abetting the Commands of a <hi>Juncto</hi> of <hi>Tyrants;</hi> whoſe Deſign is nought elſe, but to enrich themſelves by the publique ruine; a Company of impudent perſons, who aſſume the name of a Parliament, contrary to all Law and Equity: 'Tis true; they were conſtituted by you: Can you call a Parliament? you may enable them to Sit; but you cannot make their Conven<g ref="char:EOLhyphen"/>tion lawful, nor juſtifie their Actions: well then; they Sit, and Act not by Law, but by your power: truly, you exerciſe your power very diſcreetly; you take the pains, and they reap the Profit; and it were well twould reſt there too: are you ſo blind, ſo ſtupid, ſo beſotted, you can diſcern nothing? has your Commanders no providence, no foreſight at all? can they not judge of what is Acted? are they not ſenſible of what they ſuffer? By ſetting up theſe Impoſtors, you have Beheaded (as it were) the Army, and inveſted them with the power of a General; not an Officer to be imployed without their appoint<g ref="char:EOLhyphen"/>ment; A glorious Army indeed without a Head! But you are where you were; let you have your pay, you are well enough; alas for you; do you ſee nothing? Is there not a Militia ſetling, what is that for? doth the ROYALISTS appear too For<g ref="char:EOLhyphen"/>midable for you? you ſee there is not a man ſtirs; they raiſe jealouſies and fears in you, without any real cauſe; they in<g ref="char:EOLhyphen"/>vent Plots to cover their own deſignes; and make you the in<g ref="char:EOLhyphen"/>ſtruments of your own deſtruction: It is apparent enough, you are the onely perſons they fear: You pull'd them down, and ſet up a Protector: you Degraded the Protector, and Erected them; and they are conſcious of ſo much guilt, as to fear you may depoſe them again: From hence proceeds that inſufferable burden laid upon the Nation to raiſe Men and Arms; which once being perfected, you muſt expect that power to be im<g ref="char:EOLhyphen"/>ployed againſt you; &amp; then a ſhameful disbanding will be your undoubted pay, &amp; reward; How contemptibly will you then ap<g ref="char:EOLhyphen"/>pear; every injured perſon will then be ready to ſpit upon you. No (Fellow Souldiers) aſſume the hearts of Men; and as you
+<pb n="7" facs="tcp:168663:4"/>are known to have Courage, and Stoutneſs, ſo let your under<g ref="char:EOLhyphen"/>ſtanding be menifeſt alſo. 'Tis in your power to make your ſelves Famous, and the whole Nation Happy: Conſider with your ſelves, how many changes and alterations of Government this poor Kingdom hath groaned under; conſider the publick preſſures, the impoveriſhment of the Commonwealth, the bar<g ref="char:EOLhyphen"/>barous baniſhment of particular perſons; conſider the ſad and lamentable effuſion of bloud, which hath been, and muſt of neceſſity fall upon us, without a timely reconciliation: Laſtly conſider, and lay to heart our brethrens deviation from the Word of God; and deliberate with your ſelves how many Sects and Hereſies they are run into and take notice, that this preten<g ref="char:EOLhyphen"/>ded Parliament was the onely Contrivers of all theſe miſchiefs and Misfortunes; and will be your Deſtruction alſo, unleſſe timely prevented. Now, there is no other way left to prevent your own, and the Nations ruine, but to Diſmantle the Gar<g ref="char:EOLhyphen"/>riſon at <hi>Weſtminſter;</hi> Diſarm them of their Uſurped power, and Diſperſe their perſons: This done, 'tis requiſite to confi<g ref="char:EOLhyphen"/>der (being this Nation cannot conſiſt without a Supreme Ma<g ref="char:EOLhyphen"/>giſtrate) of ſome ſingle Perſon, to ſway the SCEPTER; ſince Monarchy (after all theſe things) is Experimentally found moſt congruous and ſutable to the Genius of this People This being granted neceſſary; God, and Nature hath prepa<g ref="char:EOLhyphen"/>red a Perſon ſo agreeable to this high Truſt, that the whole World cannot parrallel him, <hi>CHARLES STEWART,</hi> KING of <hi>Scotland;</hi> and (by Law and Right) KING of <hi>England</hi> and <hi>Ireland;</hi> a Perſon ſo Innocent, that the very malice of thoſe Uſurpers durſt never fix the leaſt ſcandal upon him. In a word, He is a <hi>Moſes</hi> for meekneſs; and therefore, you cannot diſtruſt his mercy: He is a <hi>Solomon</hi> for wifedom; and therefore, cannot be ſuſpected to deſtroy his own Inheritance; (it being his Intereſt to preſerve his People, to enrich his Do<g ref="char:EOLhyphen"/>minions;) and (by Acts of Grace and Mercy) to Court the Love and Affection of his Subjects: <hi>Hezekiah,</hi> was not a grea<g ref="char:EOLhyphen"/>ter Example of piety, then this young PRINCE; who, being forced, in his tender years, to make trial of the Charity of other Princes, could not but expect the frequent aſſaults of Learning and Policy, to ſhake the Foundation of his Religion;
+<pb n="8" facs="tcp:168663:5"/>yet ſuch was the ſtrength of his Judgement, ſuch his invincible Courage, in point of Faith; that no pretended Reaſons, no ſpecious Promiſes, no hopes of a temporal Setlement, (though never ſo fair) was of any validity to ſtagger his ſpiritual Re<g ref="char:EOLhyphen"/>ſolutions.</p>
+            <p>Lay your Heads (therefore) together, conſult with your ſelves; and tell me whether you can Fancy to your ſelves a Perſon whoſe parts are any thing near ſo adequate to the Royal Truſt, or your own deſires &amp; Intereſt? This is the Perſon God hath appointed; His perſon, his Parts, his Birth, do Challenge your Fidelity, your Loyalty; and will you ſtill kick againſt Heaven? and wound your Conſciences, by oppoſing his timely Admittance, into his own Inheritance? will you Deſtroy three Nations, to gratifie the Covetouſneſs, pride, and ambition, of a few inconſiderable perſons? will you draw down the Curſe of ſo many Families without any Advantage, Emolument or Profit? Look upon the affairs beyond Sea; you will find the Hands of all Chriſtendom (united by God's providence for the ſettlement of the KING) extended againſt you; ſhould they poure in their Forces upon us, and you perſiſt in your Rebel<g ref="char:EOLhyphen"/>lion, what a miſerale Seat of War would you make this poor Nation? the Children unborn, as well as the preſent Inhabi<g ref="char:EOLhyphen"/>tants, would have reaſon (from the bitterneſs of their afflicted ſouls) to curſe your memory, and poiſonous of-ſpring; but if God will give you the grace, unfeignedly to repent for what is paſt; and expreſs the reality of your hearts, (by ſuppreſſing thoſe Schiſmaticks at <hi>Weſtminſter,</hi> and ſetling his Majeſty, with the peace and quietneſs of the Nations; you would by this Act, Secure your own Perſons and Families, eſtabliſh your Eſtates, and render the three Kingdoms Fortunate; all Curſes then would be turned into Prayers; and your name (which now ſtinks in the noſtrils of all ſober and unbyaſſed Men,) would then prove Glorious and Famous throughout the World: Which that it may come to paſs, You may as well aſſure your ſelf of the dayly prayers; as the preſent advice, and requeſt of</p>
+            <closer>
+               <signed>Your paſſionately affected Friend and Countreyman,
+<hi>J. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
